@@ -2,7 +2,16 @@
 pip install simpleaichat python-dotenv
 ```
 ```bash
-Python3 schat.py
+python3 schat.py
+```
+
+schat checks for an existing API key in the .env file.
+If no API key is found, it asks you to enter one and stores it in the .env file.
+It initializes the AIChat object with the API key.
+It then enters a loop where you can chat using GPT</b>
+To exit the chat type<br />
+```bash
+quit
 ```
 
 # simpleaichat
