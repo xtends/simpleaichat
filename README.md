@@ -1,5 +1,7 @@
-# simpleaichat
+pip install simpleaichat python-dotenv
+Python3 schat.py
 
+# simpleaichat
 ```py3
 from simpleaichat import AIChat
 
