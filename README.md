@@ -1,5 +1,7 @@
+```bash
 pip install simpleaichat python-dotenv<br />
 Python3 schat.py
+```
 
 # simpleaichat
 ```py3
