@@ -8,7 +8,8 @@ simpleaichat
 ```
 
 ---------------
-
+Alternatively, use schat.py<br />
+to hold your api key using dotenv<br />
 
 ```bash
 pip install simpleaichat python-dotenv
@@ -25,6 +26,9 @@ To exit the chat type<br />
 ```bash
 quit
 ```
+
+<br />
+or build your own system from the original simpleaichat<br />
 
 # simpleaichat
 ```py3
