@@ -28,9 +28,9 @@ quit
 ```
 <br />
 python3 schat.py<br />
-ChatGPT: Hello! How can I assist you today?>br />
+ChatGPT: Hello! How can I assist you today?<br />
 You: who are you?<br />
-ChatGPT: I am a helpful assistant designed to provide information and assistance. Is there something specific you would like help with?>br />
+ChatGPT: I am a helpful assistant designed to provide information and assistance. Is there something specific you would like help with?<br />
 
 
 <br />
