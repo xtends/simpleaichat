@@ -1,3 +1,15 @@
+---------------
+easiest launch is<br />
+```bash
+pip install simpleaichat
+```
+```bash
+simpleaichat
+```
+
+---------------
+
+
 ```bash
 pip install simpleaichat python-dotenv
 ```
